@@ -8,6 +8,10 @@ Fetches the real estate valuation from a dossier created with (https://www.price
 - Enter your real estate details and submit. A Dossier will be created.
 - Hit the "share" button and copy the URL, that is your username.
   ![Dossier from Pricehubble](screenshots/dossier.png)
+  
+## Account Setup
+- Username: Dossier URL (see previous section)
+- Password: Initial purchase price (optional)
 
 ## Screenshots from MoneyMoney
 ![MoneyMoney screenshot with Real Estate Valuation](screenshots/moneymoney.png)
